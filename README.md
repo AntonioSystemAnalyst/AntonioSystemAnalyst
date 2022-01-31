@@ -1,4 +1,6 @@
-### Olá, eu sou o Antonio 👋
+
+
+## Olá, eu sou o Antonio 👋
 
 <div align="center">
   <a href="https://github.com/AntonioSystemAnalyst">
@@ -18,6 +20,8 @@
   <img align="center" alt="Anton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 </div>
 
+  ##
+  
 <div> 
   <a href="https://www.youtube.com/channel/UC_nHvbOXLe5aLFZKhEYdM0Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/antonio-analyst/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
