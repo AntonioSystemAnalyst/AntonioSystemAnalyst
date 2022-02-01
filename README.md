@@ -18,7 +18,7 @@
   <img align="center" alt="Anton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Anton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Anton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="right" alt="Anton-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/790735814521913364/938078536407875624"/>
+  <img align="right" alt="Anton-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/790735814521913364/938090114863743036/anigif.gif"/>
 </div>
 
   ##
