@@ -21,7 +21,7 @@
 
  <div>
      ## Este é o blueLight, robô que desenvolvi usando Arduino: 
-    <img align="right" alt="Anton-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/971008730533605396/1141875245138071602/Robot-2023.jpg"/>  
+    <img align="left" alt="Anton-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/971008730533605396/1141875245138071602/Robot-2023.jpg"/>  
  </div>
 
 
