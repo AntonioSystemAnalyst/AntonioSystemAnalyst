@@ -18,5 +18,9 @@
   <a href="https://www.linkedin.com/in/antonio-analyst/" target="_blank" rel=" noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener"></a> 
 </div>
  ##
- <p>Este é o blueLight, robô que desenvolvi usando Arduino: </p>
+ ## Este é o blueLight, robô que desenvolvi usando Arduino: 
+ <div>
+    <img align="right" alt="Anton-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/790735814521913364/938098989943906314/anigif.gif"/>  
+ </div>
+
 
