@@ -20,6 +20,5 @@
 <div> 
   <a href="https://www.youtube.com/channel/UC_nHvbOXLe5aLFZKhEYdM0Q" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" rel="noopener"></a>
   <a href="https://www.linkedin.com/in/antonio-analyst/" target="_blank" rel=" noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener"></a> 
-  <a href = "mailto:j.anton.orpheu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
