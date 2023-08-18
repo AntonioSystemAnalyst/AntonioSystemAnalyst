@@ -1,18 +1,19 @@
 ## Olá, eu sou o Antonio 👋
 Tech Lover desde 2019:
 
-    Graduado em Sistemas, Anhanguera Educacional 🎓.
+    Graduado em Desenvolvimento de Sistemas 🎓.
     Técnico em Dev e Automação 🤖.
 
 Hacker do Bem 🛡️:
 
-    MBA Segurança da Informação, Faculdade Descomplica 🕵️‍♂️.
-    Especialista em Redes, Faculdade Prisma 🔒.
+    MBA Segurança da Informação 🕵️‍♂️.
+    Especialista em Segurança de Redes e Computadores 🔒.
 
 Geek da Física 🚀:
 
     Aprendendo Física na Federal de São Carlos 📚.
     Misturando bits e átomos.
+    
 <div>
    <img align="center" alt="Anton-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Anton-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
