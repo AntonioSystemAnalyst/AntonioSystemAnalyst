@@ -18,9 +18,7 @@
   <a href="https://www.linkedin.com/in/antonio-analyst/" target="_blank" rel=" noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener"></a> 
 </div>
 
-<div align="center">
-  <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <div style="flex-basis: 45%; text-align: left;">
+    <div>
       <h2>Tech Lover desde 2015:</h2>
       <p>🎓 Graduado em Desenvolvimento de Sistemas<br>
       🤖 Técnico em Dev e Automação</p>
@@ -30,7 +28,7 @@
       🔒 Especialista em Redes e Computadores</p>
     </div>
 
-    <div style="flex-basis: 45%; text-align: left;">
+    <div>
       <h2>Física 🚀:</h2>
       <p>📚 Aprendendo Física, 4º semestre<br>
       🖥️☢️ Misturando bits e átomos</p>
@@ -39,8 +37,7 @@
       <p>🔌🚀 Explorando o mundo do Arduino<br>
       🛠️💡 Transformando ideias em protótipos</p>
     </div>
-  </div>
-</div>
+
 
 
 
