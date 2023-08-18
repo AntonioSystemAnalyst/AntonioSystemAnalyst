@@ -26,8 +26,8 @@ Técnico em Dev e Automação 🤖.</p>
 <p>MBA Segurança da Informação 🕵️‍♂️.<br>
 Especialista em Segurança de Redes e Computadores 🔒.</p>
 
-<h2>Geek da Física 🚀:</h2>
-<p>Aprendendo Física na Federal de São Carlos 📚.<br>
+<h2>Física 🚀:</h2>
+<p>Aprendendo Física, 4 semestre📚.<br>
 Misturando bits e átomos 🖥️☢️.</p>
 
 
