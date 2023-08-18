@@ -27,7 +27,7 @@ Técnico em Dev e Automação 🤖.</p>
 Especialista em Segurança de Redes e Computadores 🔒.</p>
 
 <h2>Física 🚀:</h2>
-<p>Aprendendo Física, 4 semestre📚.<br>
+<p>Aprendendo Física, 4 semestre 📚.<br>
 Misturando bits e átomos 🖥️☢️.</p>
 
 
