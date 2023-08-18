@@ -18,24 +18,30 @@
   <a href="https://www.linkedin.com/in/antonio-analyst/" target="_blank" rel=" noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener"></a> 
 </div>
 
-
 <div align="center">
-  <h2>Tech Lover desde 2015:</h2>
-  <p>Graduado em Desenvolvimento de Sistemas 🎓.<br>
-  Técnico em Dev e Automação 🤖.</p>
+  <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <div style="flex-basis: 45%; text-align: left;">
+      <h2>Tech Lover desde 2015:</h2>
+      <p>🎓 Graduado em Desenvolvimento de Sistemas<br>
+      🤖 Técnico em Dev e Automação</p>
 
-  <h2>Cibersegurança 🛡️:</h2>
-  <p>MBA Segurança da Informação 🕵️‍♂️.<br>
-  Especialista em Segurança de Redes e Computadores 🔒.</p>
+      <h2>Cibersegurança 🛡️:</h2>
+      <p>🕵️‍♂️ MBA em Segurança da Informação<br>
+      🔒 Especialista em Redes e Computadores</p>
+    </div>
 
-  <h2>Física 🚀:</h2>
-  <p>Aprendendo Física, 4 semestre 📚.<br>
-  Misturando bits e átomos 🖥️☢️.</p>
+    <div style="flex-basis: 45%; text-align: left;">
+      <h2>Física 🚀:</h2>
+      <p>📚 Aprendendo Física, 4º semestre<br>
+      🖥️☢️ Misturando bits e átomos</p>
 
-  <h2>Arduino Aficionado 🤖:</h2>
-  <p>Explorando o mundo do Arduino 🔌🚀.<br>
-  Transformando ideias em protótipos 🛠️💡.</p>
+      <h2>Arduino Aficionado 🤖:</h2>
+      <p>🔌🚀 Explorando o mundo do Arduino<br>
+      🛠️💡 Transformando ideias em protótipos</p>
+    </div>
+  </div>
 </div>
+
 
 
 <h2>AHTOH: Codificação em Movimento 🤖💻 <h2>
