@@ -1,18 +1,5 @@
 ## Olá, eu sou o Antonio 👋
-Tech Lover desde 2019:
 
-    Graduado em Desenvolvimento de Sistemas 🎓.
-    Técnico em Dev e Automação 🤖.
-
-Hacker do Bem 🛡️:
-
-    MBA Segurança da Informação 🕵️‍♂️.
-    Especialista em Segurança de Redes e Computadores 🔒.
-
-Geek da Física 🚀:
-
-    Aprendendo Física na Federal de São Carlos 📚.
-    Misturando bits e átomos.
     
 <div>
    <img align="center" alt="Anton-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -30,6 +17,18 @@ Geek da Física 🚀:
 <div> 
   <a href="https://www.youtube.com/channel/UC_nHvbOXLe5aLFZKhEYdM0Q" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" rel="noopener"></a>
   <a href="https://www.linkedin.com/in/antonio-analyst/" target="_blank" rel=" noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener"></a> 
+
+<h2>Tech Lover desde 2015:</h2>
+<p>Graduado em Desenvolvimento de Sistemas 🎓.<br>
+Técnico em Dev e Automação 🤖.</p>
+
+<h2>Cibersegurança 🛡️:</h2>
+<p>MBA Segurança da Informação 🕵️‍♂️.<br>
+Especialista em Segurança de Redes e Computadores 🔒.</p>
+
+<h2>Geek da Física 🚀:</h2>
+<p>Aprendendo Física na Federal de São Carlos 📚.<br>
+Misturando bits e átomos 🖥️☢️.</p>
 
 
 
