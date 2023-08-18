@@ -19,7 +19,7 @@
 </div>
 <div align="center">
   <img alt="Anton-pic" height="150" style="border-radius: 50px;" src="https://cdn.discordapp.com/attachments/790735814521913364/938098989943906314/anigif.gif"/>  
-</div>
+</div>](https://www.youtube.com/channel/UC_nHvbOXLe5aLFZKhEYdM0Q)
 
 
 <h2>Tech Lover desde 2015:</h2>
