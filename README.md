@@ -30,5 +30,11 @@ Especialista em Segurança de Redes e Computadores 🔒.</p>
 <p>Aprendendo Física, 4 semestre 📚.<br>
 Misturando bits e átomos 🖥️☢️.</p>
 
+<h2>Arduino Aficionado 🤖:</h2>
+<p>Explorando o mundo do Arduino 🔌🚀.<br>
+Transformando ideias em protótipos 🛠️💡.</p>
+
+<h2>AHTOH: Codificação em Movimento 🤖💻 <h2>
+
 
 
