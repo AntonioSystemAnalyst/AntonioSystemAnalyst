@@ -29,6 +29,6 @@ Explorando o mundo do Arduino 🤯<br>
 Misturando bits e átomos 🖥️☢️</p>
 
 <h2>AHTOH: Codificação em Movimento 🤖💻 <h2>
-
+ <img align="right" alt="Anton-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/971008730533605396/1142605534512549928/anigif.gif"/>  
 
 
