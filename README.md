@@ -30,7 +30,7 @@ Misturando bits e átomos 🖥️☢️</p>
 
 <div>
   <h2>AHTOH: Codificação em Movimento 🤖💻 </h2>
-  <p><img align="left" alt="Anton-pic" height="220" style="border: none;" src="https://media.discordapp.net/attachments/971008730533605396/1142622182271352862/anigif.gif"/></p>
+  <p><img align="left" alt="Anton-pic" height="220" style="border: none;" src=["https://media.discordapp.net/attachments/971008730533605396/1142622182271352862/anigif.gif](https://cdn.discordapp.com/attachments/971008730533605396/1142605534512549928/anigif.gif?ex=65e3ba54&is=65d14554&hm=d66cd5512f254d13c392cbc03639767228e6418be90a6d044d4a6a5b1efbadfa&)https://cdn.discordapp.com/attachments/971008730533605396/1142605534512549928/anigif.gif?ex=65e3ba54&is=65d14554&hm=d66cd5512f254d13c392cbc03639767228e6418be90a6d044d4a6a5b1efbadfa&"/></p>
 </div>
 
 
